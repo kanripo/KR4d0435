@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 青山集
-#+DATE: 2020-03-31 11:35:13.673389
+#+DATE: 2020-03-31 11:35:13.863038
 #+PROPERTY: ID KR4d0435
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR4d0435_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -140,7 +140,7 @@
 ¶
 　　番禺城北越王臺登臨下瞰何壯哉三城連環鐵為瓮¶
 睥睨百世無傾摧蕃坊翠塔卓椽筆欲蘸河漢濡烟煤¶
-滄溟忽見&KR0275;風作雪山崩倒隨驚雷有時一碧渟萬里¶
+滄溟忽見颶風作雪山崩倒隨驚雷有時一碧渟萬里¶
 <pb:KR4d0435_WYG_008-7a>¶
 洗濯日月光明開屯門鉦鐃雜大鼓舶船接尾天南囘¶
 斛量珠璣若市米擔束犀象如肩柴越王胡為易馴服¶

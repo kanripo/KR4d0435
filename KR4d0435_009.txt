@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 青山集
-#+DATE: 2020-03-31 11:35:13.678615
+#+DATE: 2020-03-31 11:35:13.868823
 #+PROPERTY: ID KR4d0435
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR4d0435_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -41,7 +41,7 @@
 <pb:KR4d0435_WYG_009-2b>¶
 摩星躔當時數赴范公辟秀骨照坐誰差肩功名自許¶
 出絶域嵗月漫往脩途邅丈夫有命豈嗟慼投老得地¶
-多雲泉霜柑正熟蟹&KR2199;美白蟻旋漉浮金船伊予困躓¶
+多雲泉霜柑正熟蟹𧑃美白蟻旋漉浮金船伊予困躓¶
 坐小邑悵望珠履參華筵祝公自此早歸隠幅巾藜杖¶
 詩中仙¶
 ¶
